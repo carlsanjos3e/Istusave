@@ -23,5 +23,6 @@ Screenshots of the app:
 ![22](https://github.com/user-attachments/assets/8454db6c-8baa-4f05-a2a5-8cca16a0cdcc)
 ![23](https://github.com/user-attachments/assets/2bc65f6c-2379-4e1d-899b-3877ca2529b0)
 
-
+APK for the app. Ready to install.
+https://drive.google.com/file/d/1UsD_xo17Wq4Caq1rEQa0ZubStDhoPZ6o/view?usp=drive_link
 
