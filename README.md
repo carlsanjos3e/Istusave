@@ -26,3 +26,7 @@ Screenshots of the app:
 APK for the app. Ready to install.
 https://drive.google.com/file/d/1UsD_xo17Wq4Caq1rEQa0ZubStDhoPZ6o/view?usp=drive_link
 
+Current updates made to the app as of March 2025:
+  - added a plus button to make it easier to add more to the current budget.
+  - whenever a user inputs to the Spending Log, the spent amount is automatically subtracted by that amount.
+
