@@ -7,9 +7,9 @@ hope to make more out of Istusave.
 
 My contribution to this project was primarily in back-end development, as well as in the construction of the application's database.
 
-Programming Language/s used: Kotlin
-Database used: RoomDB
-Tools used: Android Studio
+Programming Language/s used: Kotlin. 
+Database used: RoomDB. 
+Tools used: Android Studio. 
 
 Screenshots of the app:
 ![10](https://github.com/user-attachments/assets/becd4546-0ad4-48e2-bef6-498136fde9c0)
